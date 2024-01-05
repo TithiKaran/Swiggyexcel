@@ -1,6 +1,7 @@
 # Swiggy Data Analytics project using Excel
 
-![swiggy](https://github.com/TithiKaran/Swiggyexcel/assets/154304303/eadd1b9f-f3fc-47db-8369-b4be59cd8802)
+
+  ![swiggy](https://github.com/TithiKaran/Swiggyexcel/assets/154304303/d17f80ec-5756-4cd5-90b9-18dab6bb9cb3)
 
 Welcome to My SwiggyExcel Insights Project, an exciting data analysis project I have designed to uncover valuable insights into the world of food delivery using the Swiggy dataset from Kaggle. In this project, we delve into the rich data provided by Swiggy, utilizing 
 advanced Excel analytics to extract meaningful trends and patterns and culminating in the creation of an interactive dashboard that 
